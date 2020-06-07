@@ -1,4 +1,4 @@
-# vue-firebase-serveless
+# vue-firebase
 
 ## Project setup
 ```
