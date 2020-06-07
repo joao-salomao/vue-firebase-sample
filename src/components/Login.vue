@@ -1,5 +1,5 @@
 <template>
-  <b-card title="LOGIN" class="mt-5" style="width: 600px; margin: auto;">
+  <b-card title="LOGIN" class="mt-5" style="max-width: 600px; margin: auto;">
     <b-form @submit="e => onSubmit(e)">
       <b-form-group label="Email" label-for="input-email">
         <b-form-input
