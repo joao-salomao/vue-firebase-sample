@@ -1,0 +1,21 @@
+- Criar projeto com o Vue:
+    vue create app-name
+- Instalar Bootstrap Vue:
+    https://bootstrap-vue.org/docs
+- Configurar Firebase:
+    Inicializar o firebase no projeto
+- Fazer o login:
+    - Fazer a tela
+    - Configurar o firebase auth
+- Fazer o CRUD:
+    - Criar a tela de crud
+    - Configurar firestore
+- Parte Final:
+    - Fazer a lógica do usuário logado ou não
+    - Adicionar funcionalidade de esqueci minha senha
+
+
+- ERROR FIREBASE
+https://github.com/firebase/firebase-js-sdk/issues/2923
+
+**** USAR VERSÃO 7.12.0 DA LIB firebase	
